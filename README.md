@@ -104,4 +104,4 @@ plt.show()
 
 
 
-### Result:
+### Result: Thus the Implementation of Link Analysis using HITS Algorithm is completed successfully.
